@@ -1,0 +1,16 @@
+mx\uv\t4is\Pos\Usuario.class
+mx\uv\t4is\Pos\PosEndPoint.class
+mx\uv\t4is\Pos\IPOS.class
+https\t4is_uv_mx\pos\ObjectFactory.class
+mx\uv\t4is\Pos\Inventario.class
+mx\uv\t4is\Pos\Stock.class
+https\t4is_uv_mx\pos\package-info.class
+mx\uv\t4is\Pos\Venta.class
+https\t4is_uv_mx\pos\ModificarStockResponse.class
+https\t4is_uv_mx\pos\ModificarStockRequest.class
+mx\uv\t4is\Pos\IUsuario.class
+https\t4is_uv_mx\pos\VentaResponse.class
+mx\uv\t4is\Pos\Iinventory.class
+https\t4is_uv_mx\pos\VentaRequest.class
+mx\uv\t4is\Pos\PosApplication.class
+mx\uv\t4is\Pos\PosConf.class
